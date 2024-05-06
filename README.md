@@ -1,4 +1,4 @@
-# Administrare-Retea-de-Magazine-Online
+# Online Store Network Management System
 
 **Important:** This project is designed to showcase the application of Object-Oriented Programming (OOP) principles using C++. The aim is to provide a deep understanding of how OOP concepts can be implemented in real software development.
 
@@ -45,7 +45,7 @@ We are open to contributions from the community. If you wish to contribute, plea
 
 
 
-# Administrare-Retea-de-Magazine-Online
+# Administrare Retea de Magazine Online
 
 **Important:** Acest proiect este conceput pentru a demonstra aplicarea principiilor Programării Orientate pe Obiecte (OOP) utilizând limbajul C++. Scopul este de a oferi o înțelegere profundă a modului în care conceptele OOP pot fi aplicate în dezvoltarea de software real.
 
